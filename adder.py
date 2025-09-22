@@ -1,2 +1,7 @@
-def adder(a+b):
-    return(a+b)
+def add(num1: int, num2: int) ->int:
+    return(num1+num2)
+
+
+
+if__name__ == '__main__':
+    print(add(3,7))
