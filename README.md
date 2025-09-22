@@ -1,6 +1,6 @@
 # first-repo
 
-This is first-repo. See [Demo] (http:// www.google.com/)
+This is first-repo. See[Demo](http:// www.google.com/)
 
 ## Prerequiresites
 
@@ -12,7 +12,7 @@ This is first-repo. See [Demo] (http:// www.google.com/)
 ```shell
 $ git clone {repo}
 $ cd {repo}
-$ pythin main.py
+$ python main.py
 ```
 
 ## Installation
